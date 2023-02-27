@@ -5,5 +5,5 @@
   <img src="https://media.tenor.com/btHsggSMhoAAAAAC/bocchi-the-rock-pa.gif" width="300" />
 </div>
 <div align="center">
-   <h3>I wanna be a software engine</h3>
+   <h3>I wanna be a software engineer</h3>
 </div>
