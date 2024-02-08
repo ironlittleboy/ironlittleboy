@@ -6,4 +6,5 @@
 </div>
 <div align="center">
    <h3>I wanna be a software engineer</h3>
+   <p>Also i like music</p>
 </div>
