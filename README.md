@@ -1,6 +1,7 @@
 ## About me
 
 - Cybersecurity interested
+- Networking basics
 - Web development
 - Linux user
 
